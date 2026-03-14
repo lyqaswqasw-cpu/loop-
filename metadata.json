@@ -1,0 +1,8 @@
+{
+  "name": "Loop AI",
+  "description": "منصة ذكاء اصطناعي متعددة الوسائط تدعم الدردشة، توليد الصور، وشرح الكود بتصميم عصري.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
